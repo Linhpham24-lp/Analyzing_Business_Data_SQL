@@ -4,4 +4,5 @@ About this course, I learned about
   2. User-centric methods, namely the registrations and active users KPIs, using window functions to calculate the active users growth and retention rates. 
   3. Unit economics, and understood how your data is distributed through histograms and percentiles. 
   4. How to produce an executive report using pivoting.
-Right now, i can analyze the business case in sql 
+
+==> Right now, i can analyze the business case in sql 
