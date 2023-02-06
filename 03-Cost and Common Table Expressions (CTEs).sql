@@ -40,3 +40,6 @@ SELECT
   avg(cost)
 FROM monthly_cost
 WHERE delivr_month <'2018-09-01'
+
+
+    
